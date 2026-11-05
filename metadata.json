@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Slice Dojo - फल काटो",
+  "description": "An arcade fruit slicing game with realistic juicy physics, combo multipliers, special power-up fruits, and responsive blade trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
